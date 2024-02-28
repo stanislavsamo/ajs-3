@@ -1,6 +1,6 @@
 function info() {
     const m = new Map();
-    m.set('name', 'ajs');
+    m.set('name', 'ajs-3');
     m.set('version', '1.0.0');
     return m;
   }
@@ -8,3 +8,4 @@ function info() {
   export default {
     info
   };
+
